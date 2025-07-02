@@ -85,7 +85,7 @@ smart_health_analyzer/
 
 ## 🌐 **Deploy on Streamlit**
 
-🔗 **Live App**: [https://your-streamlit-app.streamlit.app](https://your-streamlit-app.streamlit.app)
+🔗 **Live App**: [https://healthanalyzer-ml-streamlit-app.streamlit.app](https://healthanalyzer-ml.streamlit.app/)
 
 ---
 
