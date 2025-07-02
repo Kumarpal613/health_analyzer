@@ -3,7 +3,7 @@
 
 *Streamlit-Powered Health Risk Prediction App*
 
-[![Live Demo](https://img.shields.io/badge/Demo-Live_App-green)](https://your-streamlit-app.streamlit.app)
+[![Live Demo](https://img.shields.io/badge/Demo-Live_App-green)](https://healthanalyzer-ml.streamlit.app/)
 
 
 ---
