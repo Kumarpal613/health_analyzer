@@ -1,5 +1,5 @@
 ﻿
-# **Health Analyzer 🩺**
+# **Health Analyzer 
 
 *Streamlit-Powered Health Risk Prediction App*
 
@@ -8,7 +8,7 @@
 
 ---
 
-## 📌 **Overview**
+ **Overview**
 
 **Smart Health Analyzer** is a **Streamlit-based** machine learning app that predicts potential health risks (like heart disease or diabetes) based on user input. It provides end-to-end ML capabilities, including:
 
@@ -21,16 +21,16 @@
 
 ---
 
-## 🚀 **Features**
+**Features**
 
-* 🔍 **Predicts multiple health conditions** from patient data
-* 📊 **Interactive visualizations** (probability & SHAP plots)
-* 📱 **Mobile-responsive UI**, accessible from any device
-* 🔧 **Modular design** to add more diseases/models easily
+* **Predicts multiple health conditions** from patient data
+* **Interactive visualizations** (probability & SHAP plots)
+* **Mobile-responsive UI**, accessible from any device
+* **Modular design** to add more diseases/models easily
 
 ---
 
-## 🛠 **Tech Stack**
+**Tech Stack**
 
 | Layer                | Tools/Technologies            |
 | -------------------- | ----------------------------- |
@@ -41,7 +41,7 @@
 
 ---
 
-## ⚙️ **Setup Instructions**
+**Setup Instructions**
 
 ### 1. Clone the Repository
 
@@ -62,11 +62,11 @@ pip install -r requirements.txt
 streamlit run app/streamlit_app.py
 ```
 
-📍 Opens at: `http://localhost:8501`
+Opens at: `http://localhost:8501`
 
 ---
 
-## 📂 **Project Structure**
+**Project Structure**
 
 ```bash
 smart_health_analyzer/
@@ -83,14 +83,15 @@ smart_health_analyzer/
 
 ---
 
-## 🌐 **Deploy on Streamlit**
+**Deploy on Streamlit**
 
 🔗 **Live App**: [https://healthanalyzer-ml-streamlit-app.streamlit.app](https://healthanalyzer-ml.streamlit.app/)
 
 ---
 
-## 🎯 **Note**
+**Note**
 
 * No Flask, HTML, or CSS — **pure Python + Streamlit**
 * Focused only on **supervised learning** (no unsupervised methods used)
+
 
