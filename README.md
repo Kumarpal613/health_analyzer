@@ -12,12 +12,12 @@
 
 **Smart Health Analyzer** is a **Streamlit-based** machine learning app that predicts potential health risks (like heart disease or diabetes) based on user input. It provides end-to-end ML capabilities, including:
 
-* ✅ Data Cleaning & Feature Engineering
-* ✅ Exploratory Data Analysis
-* ✅ Supervised Learning & Model Evaluation
-* ✅ Hyperparameter Tuning
-* ✅ Real-time Prediction & SHAP Explainability
-* ✅ Deployed via Streamlit Community Cloud
+*  Data Cleaning & Feature Engineering
+*  Exploratory Data Analysis
+*  Supervised Learning & Model Evaluation
+*  Hyperparameter Tuning
+*  Real-time Prediction & SHAP Explainability
+*  Deployed via Streamlit Community Cloud
 
 ---
 
@@ -93,6 +93,7 @@ smart_health_analyzer/
 
 * No Flask, HTML, or CSS — **pure Python + Streamlit**
 * Focused only on **supervised learning** (no unsupervised methods used)
+
 
 
 
