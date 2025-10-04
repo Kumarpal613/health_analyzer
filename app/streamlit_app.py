@@ -5,9 +5,9 @@ import pandas as pd
 # Load model
 try:
     model = joblib.load('models/heart_disease_model.pkl')
-    st.success("✅ Model loaded successfully!")
+    st.success(" Model loaded successfully!")
 except Exception as e:
-    st.error(f"❌ Model loading failed: {e}")
+    st.error(f" Model loading failed: {e}")
     model = None
 
 # App title
@@ -110,10 +110,10 @@ with st.form("prediction_form"):
         st.subheader("Prediction Results")
         
         if prediction:
-            st.error(f"🚨 High Risk ({probability:.2f}% probability)")
+            st.error(f" High Risk ({probability:.2f}% probability)")
             st.warning("Recommendation: Consult a cardiologist immediately")
         else:
-            st.success(f"✅ Low Risk ({probability:.2f}% probability)")
+            st.success(f" Low Risk ({probability:.2f}% probability)")
             st.info("Recommendation: No significant risk detected")
         
         # Show interpretation guide
