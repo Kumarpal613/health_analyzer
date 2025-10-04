@@ -1,5 +1,5 @@
 ﻿
-# **Health Analyzer 
+# Health Analyzer 
 
 *Streamlit-Powered Health Risk Prediction App*
 
@@ -93,5 +93,6 @@ smart_health_analyzer/
 
 * No Flask, HTML, or CSS — **pure Python + Streamlit**
 * Focused only on **supervised learning** (no unsupervised methods used)
+
 
 
